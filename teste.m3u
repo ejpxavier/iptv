@@ -1,0 +1,80 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-id="globo_SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="Canais Abertos", GLOBO SP
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1571373023/ei/f-uoXaaVKJPJwASjm67oCA/ip/177.93.159.174/id/BO3ex3S2r0s.1/source/yt_live_broadcast/requiressl/yes/tx/23813230/txs/23813225%2C23813226%2C23813227%2C23813228%2C23813229%2C23813230%2C23813231/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRQIgYHZw5sFyoauz3GsMKnJ7w_M5TE-RC5Z-Zt-MwAf98coCIQCPxoKab-AvPLhMcjRvRxEIUiVvNu7e4lOADH_uOmcD_A%3D%3D/file/index.m3u8
+
+#EXTINF:-1, tvg-id="globo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Canais Abertos", GLOBO
+http://hvod.imirun.net:8080/GloboRJ/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="globo_sd" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="Canais Abertos", Globo SD
+https://apk25.futeboltvgratis.com/live/17/playlist.m3u8
+
+#EXTINF:-1, tvg-id="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/150px-Logotipo_do_SBT.svg.png" group-title="Canais Abertos", SBT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1571367804/ei/HNeoXdvKFZawxwTz6omwDw/ip/177.93.159.174/id/KO06FC7yJp0.0/source/yt_live_broadcast/requiressl/yes/tx/23813230/txs/23813225%2C23813226%2C23813227%2C23813228%2C23813229%2C23813230%2C23813231/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRgIhAKQQLfLSoSGaGiGri5uz-etunP1-UrGziD7wdVcqEOk8AiEAlOlQPq3qCuMe0fB4EmO8HtFwtwgjYDeI4I1qvVpTzDY%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="SBT_Interior" tvg-logo="https://backupimages.files.wordpress.com/2019/10/sbt.png" group-title="Canais Abertos",SBT Interior SP
+https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="SBT_PI" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/150px-Logotipo_do_SBT.svg.png" group-title="Canais Abertoss", SBT PI HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?Grupo_UP_e_DOWN
+
+#EXTINF:-1, tvg-id="record_News" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c7/Logotipo_da_Record_News_%282016%29.png/180px-Logotipo_da_Record_News_%282016%29.png" group-title="Canais Abertos",Record News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1571368648/ei/aNqoXff4B5eYxwSruJWIBA/ip/177.93.159.174/id/McnwkR9GP5E.2/source/yt_live_broadcast/requiressl/yes/tx/23813230/txs/23813225%2C23813226%2C23813227%2C23813228%2C23813229%2C23813230%2C23813231/hfr/1/maudio/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRAIgKw4yZkTzQhEzeaSHR6zq7sKkvOydoLvSUL8PDqyPjHkCIERezqZ9MG9b8cktUocRgBUfeohaObCjbKZLg9EUrZ0z/file/index.m3u8
+
+#EXTINF:-1, tvg-id="record_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/150px-Logotipo_da_Record.png" group-title="Canais Abertos",Record HD
+https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
+
+#EXTINF:-1 tvg-id="record" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/150px-Logotipo_da_Record.png" group-title="Canais Abertos",Record
+http://play.starbr.top/live/cantel01/lion01/1210.m3u8
+
+#EXTINF:-1, tvg-id="TV_Vitoria" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/81/Logotipo_da_TV_Vit%C3%B3ria.png/200px-Logotipo_da_TV_Vit%C3%B3ria.png" group-title="Canais Abertos", TV Vitoria
+http://tvvitoria.viacast.tv/livepl/tvvitoria_3_original.m3u8
+
+#EXTINF:-1, tvg-id="Rede_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1d/LOGO_REDETV%21.png/200px-LOGO_REDETV%21.png" group-title="Canais Abertos", Rede TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
+
+#EXTINF:-1, tvg-id"Rede_TV_RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1d/LOGO_REDETV%21.png/200px-LOGO_REDETV%21.png" group-title="Canais Abertos", Rede TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Band_SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Band_logo_2018.png/200px-Band_logo_2018.png" group-title="Canais Abertos", Band SP
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+
+
+#EXTINF:-1, tvg-id="TV_Gazeta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/200px-TV_Gazeta.svg.png" group-title="Canais Abertos", TV Gazeta
+http://api.new.livestream.com/accounts/5381476/events/2395418/broadcasts/197899587.m3u8
+
+#EXTINF:-1, tvg-id="GV_NEWS", tvg-logo="http://gvnews.com.br/wp-content/uploads/2016/03/logo-brancosemespac5.png" group-title="Canais Abertos", GV NEWS 
+http://173.236.10.10:1935/gvnews/gvnews/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Jovem_Pan", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/200px-Jovem_Pan_logo_2018.svg.png" group-title="Canais Abertos", Jovem Pan 
+https://evpp.mm.uol.com.br/jovempan/tv-jp.sdp/playlist.m3u8
+
+#EXTINF:-1, tvg-id="TV_Camara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Marca_TV_C%C3%A2mara_-_2018.png" group-title="Canais Abertos", TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1, tvg-id="TV_Planalto" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1c/Logotipo_da_TV_Brasil.png/200px-Logotipo_da_TV_Brasil.png" group-title="Canais Abertos", TV Planalto
+http://ebctvbrasil-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvbrasil/manifest.m3u8
+
+#EXTINF:-1, tvg-id="TV_Aparecida" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1e/Logotipo_da_TV_Aparecida.png/200px-Logotipo_da_TV_Aparecida.png" group-title="Canais Católicos", TV Aparecida
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w791297938.m3u8?ANTONYGTV
+
+#EXTINF:-1, tvg-id="Rede_Vida" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rede_Vida_logo.png/200px-Rede_Vida_logo.png" group-title="Canais Católicos", Rede Vida 
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+
+#EXTINF:-1, tvg-id="Rede_Vida 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rede_Vida_logo.png/200px-Rede_Vida_logo.png" group-title="Canais Católicos", Rede Vida 2
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Canção_Nova" tvg-logo="http://img.cancaonova.com/cnimages/canais/uploads/sites/6/2015/10/formacao_cancao-nova-2.jpg" group-title="Canais Católicos", Canção Nova
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
+
+#EXTINF:-1, tvg-id="RS21" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/b4/Rede_S%C3%A9culo_21.jpg/200px-Rede_S%C3%A9culo_21.jpg" group-title="Canais Católicos", RS21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/index_500_av-p.m3u8?sd=10&#038;rebase=on
+
+#EXTINF:-1, tvg-id="Rede_Gospel" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/ba/LGT_Rede_Gospel.png/235px-LGT_Rede_Gospel.png" group-title="Canais Gospel", Rede Gospel
+http://media01.s12.com.br:1935/live/redegospel/livestream.m3u8
+
+#EXTINF:-1, tvg-id="TV_Novo_Tempo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/07/Logo_2015_-_TV_Novo_Tempo.png/200px-Logo_2015_-_TV_Novo_Tempo.png" group-title="Canais Gospel", TV Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
+
+
+
